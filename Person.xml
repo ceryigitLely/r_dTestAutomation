@@ -1,0 +1,11 @@
+<Person>
+    <name>Ceylan</name>
+    <surname>Eryigit</surname>
+    <address>
+        <City>İstanbul</City>
+        <Street>Dedeoğlu</Street>
+        <no>30</no>
+    </address>
+    <phone>0123456789</phone>
+    <mail>eryigit.ceylan@gmail.com</mail>
+</Person>

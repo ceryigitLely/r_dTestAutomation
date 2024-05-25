@@ -1,0 +1,9 @@
+person:
+  name: Ceylan
+  surname: Eryigit
+  address:
+    City: İstanbul
+    Street: Dedeoglu
+    No: 30
+  phone: 0123456789
+  mail: eryigit.ceylan@gmail.com
